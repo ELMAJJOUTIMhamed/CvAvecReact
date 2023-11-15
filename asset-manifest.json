@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CvAvecReact/static/css/main.f5339fce.css",
+    "main.js": "/CvAvecReact/static/js/main.c4553969.js",
+    "static/js/787.8e8ffda9.chunk.js": "/CvAvecReact/static/js/787.8e8ffda9.chunk.js",
+    "static/media/logo.svg": "/CvAvecReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CvAvecReact/index.html",
+    "main.f5339fce.css.map": "/CvAvecReact/static/css/main.f5339fce.css.map",
+    "main.c4553969.js.map": "/CvAvecReact/static/js/main.c4553969.js.map",
+    "787.8e8ffda9.chunk.js.map": "/CvAvecReact/static/js/787.8e8ffda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5339fce.css",
+    "static/js/main.c4553969.js"
+  ]
+}
